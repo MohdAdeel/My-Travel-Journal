@@ -1,0 +1,17 @@
+.Main--Heading{
+    margin: 0px;
+    padding: 10px;
+    background-color: rgb(255, 100, 80);
+    display: flex;
+    font-size: small;
+    color: white;
+    justify-content: center;
+}
+
+.heading--nav{
+    margin-left: 10px;
+}
+
+.nav--icon {
+    font-size: 26px;
+}

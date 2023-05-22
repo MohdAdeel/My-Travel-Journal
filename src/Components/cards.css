@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main--body {
+    box-sizing: border-box;
+    display: flex;
+    /* border: 2px dotted red; */
+    margin-top: 25px;
+}
+
+.pic {
+    width: 200px;
+    height: 280px;
+    border-radius: 10px;
+    margin: 0px 30px 30px 70px;
+    cursor: pointer;
+}
+
+.top--line{
+    display: flex;
+    font-size: small;
+    padding-top: 20px;
+}
+
+.location{
+    letter-spacing: 2px;
+    display: flex;
+    
+}
+
+.location--icon{
+    color: red;
+    /* font-size: smaller !important;     */
+    /* display: flex; */
+    margin-right: 07px;
+}
+
+.google--map{
+    margin-left: 42px;
+    color: gray;
+    text-decoration: underline;
+}
+
+.heading{
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.dates{
+    margin: 35px 0px 10px 0px;
+
+}
+
+.bottom--description{
+    /* margin-top: 20px; */
+    padding-right: 200px;
+    line-height: 1.8;
+}
