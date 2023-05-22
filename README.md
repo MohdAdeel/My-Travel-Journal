@@ -1,3 +1,10 @@
+# About This Project 
+In this project I have used:
+1- Props 
+2- Data Maping
+3- Getting Data From Different Array And Map on New Array 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
